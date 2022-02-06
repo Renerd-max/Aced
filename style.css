@@ -1,146 +1,52 @@
-section{
-  float:center;
-  width:60%;
-  right:20%;
-}
-aside{
-  float:right;
-}
-body {
-  background-image: url("/storage/emulated/0/My-Projects/Portfolio.html/Portfolio-Renerd liam/Images/body-background.jpg");
-  background-repeat: repeat-y;
-  background-color: #dcdbddcc;
-  color: #2a2c2a;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+  .topcontent{
+    font-size: 15px;
+    line-height: 10px;
+    letter-spacing: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: rgb(19, 18, 18);
+    
   }
-  h1,h2,h3,h4{
-    position: static; 
-    left: auto;
-    right: auto;
-    font-family: comic sans ms;
-    background: linear-gradient(to right, #925ac0, #994678, #432da7, #377043); 
-     -webkit-text-fill-color: transparent;
-     -webkit-background-clip: text;
-   }
-   .head{
-     background:rgb(179, 130, 170);
-     
-
-   }
-   #button{
-         background-color: white;
-         border: 8px solid white;
-         border-radius:20px 20px 0px 0px;
-         padding: 50px 1px 1px 1px;
-         text-align: center;
-         display: block;
-         position:relative;
-         font-size: 20px;
-         margin: 30px;
-         margin-top: 10px;
-         cursor: pointer;
-         background: linear-gradient(to left, #9933ff, #ffffff, #cc66ff, #9900ff);
-          height:100px;
-         }
-         .bh{
-           background-color: white;
-         border: 2px solid #756486;
-         padding: 20px;
-         text-align: center;
-         display: inline-block;
-         font-size: 20px;
-         margin: 10px;
-         cursor: pointer;
-         color: rgb(199, 218, 199);
-         border-radius: 20px;
-         position:relative;
-         }
-         #logo{
-         border:2px solid #8000ff;
-         display:inline;
-         height:50px;
-         width:50px;
-         border-radius: 50%;
-         position:absolute;
-         top:5%;
-         right:10%;
-         }
-         .bc{
-          background: transparent;
-          border:1px solid transparent;
-          height:auto;
-          width:auto;
-          border-radius:20px;
-          padding:2%;
-          margin: 10px;
-          margin-top:10px
-         }
-         #himage{
-         border: 1px solid grey;
-         height:290px;
-         width:290px;
-         border-radius:50%;
-         display:block;
-         position: relative;
-         padding:2%;
-         left:12%;
-         }
-         #hname{
-        background: #b9b5bd;
-        color:white;
-       position:static;
-       right:2%;
-       height:auto;
-       width: 400px;
-       border:5px;
-       }
-       .bt{
-         position:relative;
-         color:rgb(99, 119, 185);
-         font-family: Arial, Helvetica, sans-serif;
-         background-color: azure;
-         padding:6px;
-         border:2px solid rgb(215, 198, 231);
-         border-radius:15px;
-       }
-.ic{
-background: #a4a2a5;
-color:white;
-position:relative;
-margin:5px;
-margin-top:30px;
-right:2%;
-border:1px solid grey;
-height:auto;
-width:auto;
-border-radius:20px;
-padding:2%;
-display:box;
+#topbar{
+  display:inline;
+  position:relative;
+  border: 1px solid blue;
+  margin-top: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 10px;
+  
 }
-.iimage{
-border:1px solid white;
-height:240px;
-width:388px;
-position:relative;
-border-radius:20px;
-padding:2%;
-left:10%;
-}
-.notice{
-border:1px solid grey;
-height:150px;
-width:400px;
-position:relative;
-border-radius:20px;
-padding:2%;
+#logo{max-width:30px; height: 30px;
+  margin-right: 70px;
+  border-radius: 5px;
 }
 
-.foot{
-background-color:rgb(63, 28, 57);
-color:white;
-position:static;
-clear:both;
-bottom:0px;
-padding:25px;
+#bt{max-width:70px; height:25px;
+  background-color: #9e89c7;
+  color:white;
+  border:1px solid white;
+  border-radius: 10px;
+  }
+
+  .link{
+    color:black;
+    text-decoration: none;
+  }
+
 }
-      
+.left{
+  width: 200px;
+  height: auto;
+  float: left;
+}
+
+section{
+  border:1px solid blue;
+  color:black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding:25px;
+  margin-right: 10%; left:500px%;
+}

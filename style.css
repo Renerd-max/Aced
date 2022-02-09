@@ -7,16 +7,16 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     color: rgb(19, 18, 18);
-    
   }
 #topbar{
   display:inline;
   position:relative;
   border: 1px solid transparent;
+  border-radius: 5px;
   margin-top: 25px;
   margin-left: 10%;
   margin-right: 10%;
-  padding: 10px;
+  padding: 35px;
   
 }
 #logo{max-width:50px; height: 50px;
@@ -44,6 +44,8 @@ section{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding:10px;
   margin-left: 10%;
+  box-shadow: -5px -5px 8px grey;
+  box-shadow: 5px 5px 8px grey;
 }
 aside{
   float:right;
@@ -56,7 +58,7 @@ aside{
   color:black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding:10px;
-  margin-top: 200px;
+  margin-top: 150px;
   position:relative;
   display:inline-block;
   vertical-align: middle;
@@ -66,16 +68,18 @@ aside{
   height:auto;
   border:1px solid transparent;
   position: relative;
-  display: inline-block;
+  display:inline-grid;
   vertical-align: middle;
-  margin-top:200px;
+  margin-top:150px;
   margin-right:10px;
   text-align: center;
 
 }
 #decimage{width:400px;
   height:250px;
-  border: 2px solid grey;
+  border: 1px solid white;
+  box-shadow: -5px -5px 8px grey;
+  box-shadow: 5px 5px 8px grey;
 
 
 }
@@ -105,28 +109,24 @@ aside{
   position:relative;
   display:inline-block;
   vertical-align:middle;
-  box-shadow: -5px 5px -5px 5px  blueviolet;
-  box-shadow: 5px -5px 5px -5px blueviolet;
-  box-shadow: -5px 5px -5px 5px blueviolet;
-  box-shadow: 5px -5px 5px -5px blueviolet;
+  box-shadow: -5px -5px 8px  blueviolet;
+  box-shadow: 5px 5px 8px  blueviolet;
 }
 
 .shortunder{
   border-bottom: 3px solid rgb(151, 106, 192);
 }
-.display{margin: 5px;
+.display{margin: 1px;
     border:1px solid white;
     background-color: white;
     width:28%;
     height:auto;
     position:relative;
-    display:inline-block;
+    display: inline-block;
     padding:10px;
     vertical-align: middle;
-    box-shadow: -5px 5px -5px 5px  blueviolet;
-    box-shadow: 5px -5px 5px -5px blueviolet;
-    box-shadow: -5px 5px -5px 5px blueviolet;
-    box-shadow: 5px -5px 5px -5px blueviolet; 
+    box-shadow: -5px -5px 8px  blueviolet;
+    box-shadow: 5px 5px 8px blueviolet;
 }
 .smallbox{
   border:1px solid transparent;
@@ -172,3 +172,15 @@ aside{
   border:1px solid white;
   border-radius: 10px;
   }
+  .disp{margin: 1px;
+    border:1px solid white;
+    background-color: white;
+    width:28%;
+    height:auto;
+    position:relative;
+    display: inline-block;
+    padding:10px;
+    vertical-align: middle;
+    box-shadow: -5px -5px 8px blueviolet;
+    box-shadow: 5px 5px 8px blueviolet;
+}

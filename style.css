@@ -44,6 +44,7 @@ section{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding:10px;
   margin-left: 10%;
+  margin-right: 10%;
   box-shadow: -5px -5px 8px grey;
   box-shadow: 5px 5px 8px grey;
 }
@@ -161,9 +162,9 @@ aside{
   background-color: rgb(207, 207, 211);
 }
 #faqnotice{
-  background-color: rgb(168, 63, 168);
+  background-color: rgb(117, 45, 117);
   color: white;
-  width: 88.5%;
+  width: 78.5%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #fh{color:white;}

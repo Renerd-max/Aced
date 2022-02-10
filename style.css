@@ -19,6 +19,8 @@
   padding: 35px;
   
 }
+
+
 #logo{max-width:50px; height: 50px;
   margin-right: 300px;
   border-radius: 5px;
@@ -45,6 +47,7 @@ section{
   padding:10px;
   margin-left: 10%;
   margin-right: 10%;
+  margin-bottom: 75px;
   box-shadow: -5px -5px 8px grey;
   box-shadow: 5px 5px 8px grey;
 }
@@ -161,7 +164,7 @@ aside{
 .distopcolor{
   background-color: rgb(207, 207, 211);
 }
-#faqnotice{
+#faqnotice{margin-top: 40px;
   background-color: rgb(117, 45, 117);
   color: white;
   width: 78.5%;
@@ -173,4 +176,16 @@ aside{
   color:rgb(168, 63, 168);
   border:1px solid white;
   border-radius: 10px;
+  }
+  #ch{
+    height: 120px;
+  }
+  .ldoub{display: inline-block;
+    position: relative;
+    text-align: left;
+    width:40%;
+    height: auto;
+    padding:10px;
+    border: 1px solid transparent;
+    margin-top: 50px;
   }

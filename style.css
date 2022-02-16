@@ -16,10 +16,21 @@
   margin-top: 25px;
   margin-left: 10%;
   margin-right: 10%;
-  padding: 35px;
-  
+  padding: 35px; 
 }
-
+#topbar:hover{vertical-align: middle;
+  background-color: #f8f6fa;
+  display:inline;
+  position:relative;
+  border: 1px solid transparent;
+  border-radius: 40px;
+  margin-top: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 35px; 
+  box-shadow: -5px -5px 8px  #d1cfd4;
+  box-shadow: 5px 5px 8px #d1cfd4;
+}
 
 #logo{max-width:50px; height: 50px;
   margin-right: 300px;
@@ -37,8 +48,18 @@
     color:black;
     text-decoration: none;
   }
+  .link:hover{
+    color:rgb(78, 67, 230);
+    text-decoration: none;
+  }
   h1,h2,h3{
     color: rgb(63, 61, 59);
+  }
+  h2:hover{
+    color: rgb(155, 124, 170);
+  }
+  h1:hover{
+    color: rgb(155, 124, 170);
   }
 section{
   float:left;
@@ -117,7 +138,18 @@ aside{
   box-shadow: -5px -5px 8px  #9e89c7;
   box-shadow: 5px 5px 8px  #9e89c7;
 }
-
+.profilecard:hover{
+  margin:25px;
+  border:1px solid white;
+  background-color: white;
+  width:40%;
+  height:auto;
+  position:relative;
+  display:inline-block;
+  vertical-align:middle;
+  box-shadow: -5px -5px 8px  #d1cfd4;
+  box-shadow: 5px 5px 8px  #d1cfd4;
+}
 .shortunder{
   border-bottom: 3px solid rgb(151, 106, 192);
 }
@@ -134,6 +166,19 @@ aside{
     box-shadow: 5px 5px 8px #9e89c7;
     text-align: left;
 }
+.display:hover{margin: 1px;
+  border:1px solid white;
+  background-color: white;
+  width:28%;
+  height:auto;
+  position:relative;
+  display: inline-block;
+  padding:10px;
+  vertical-align: middle;
+  box-shadow: -5px -5px 8px  #d1cfd4;
+  box-shadow: 5px 5px 8px #d1cfd4;
+  text-align: left;
+}
 .smallbox{
   border:1px solid transparent;
   margin:5px;
@@ -141,7 +186,6 @@ aside{
   width:10px;
   background-color: rgb(67, 18, 112);
   position: relative;
-  display: inline-block;
   float: left;
 }
 #c1{
@@ -208,7 +252,13 @@ aside{
     height:14px;
     background-color: white;
   }
-  .socialicon{width:50px;
-    height:50px;
+  .socialicon{width:40px;
+    height:40px;
+    border-radius: 40%;
     background-color: rgb(230, 227, 227);
   }
+  .socialicon:hover{width:50px;
+    height:50px;
+    background-color: #f8f6fa;
+  }
+  

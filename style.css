@@ -1,5 +1,5 @@
-header{
-  margin-top: 5px;
+body{
+background-color: rgb(226, 206, 222);
 }
 
   .topcontent{
@@ -64,7 +64,7 @@ header{
   h1:hover{
     color: rgb(155, 124, 170);
   }
-section{
+section{background-color: white;
   float:left;
   color:rgb(37, 35, 35);
   font-family: Verdana, Geneva, Tahoma, sans-serif;

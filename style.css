@@ -1,4 +1,6 @@
-
+header{
+  margin-top: 5px;
+}
 
   .topcontent{
     font-size: 15px;
@@ -14,8 +16,8 @@
   border: 1px solid transparent;
   border-radius: 5px;
   margin-top: 25px;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 18%;
+  margin-right:1%;
   padding: 35px; 
 }
 #topbar:hover{vertical-align: middle;
@@ -25,16 +27,17 @@
   border: 1px solid transparent;
   border-radius: 40px;
   margin-top: 25px;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 18%;
+  margin-right: 1%;
   padding: 35px; 
   box-shadow: -5px -5px 8px  #d1cfd4;
   box-shadow: 5px 5px 8px #d1cfd4;
 }
 
 #logo{max-width:50px; height: 50px;
-  margin-right: 300px;
+  margin-right: 200px;
   border-radius: 5px;
+  vertical-align: middle;
 }
 
 .bt{max-width:auto; height:25px;

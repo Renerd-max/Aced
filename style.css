@@ -1,5 +1,5 @@
 body{
-background-color: rgb(226, 206, 222);
+background-color: rgb(240, 234, 239);
 }
 
   .topcontent{
@@ -34,7 +34,7 @@ background-color: rgb(226, 206, 222);
   box-shadow: 5px 5px 8px #d1cfd4;
 }
 
-#logo{max-width:50px; height: 50px;
+#logo{max-width:100px; height: 100px;
   margin-right: 200px;
   border-radius: 5px;
   vertical-align: middle;

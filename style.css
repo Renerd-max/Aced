@@ -124,6 +124,7 @@ aside{
   position:relative;
   display:inline-block;
   vertical-align:middle;
+  text-decoration: none;
 }
 
 .title{color:#9e89c7;

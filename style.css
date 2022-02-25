@@ -68,7 +68,7 @@ section{background-color: white;
   float:left;
   color:rgb(37, 35, 35);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  padding:10px;
+  padding:5%;
   margin-left: 10%;
   margin-right: 10%;
   margin-bottom: 75px;
@@ -216,7 +216,7 @@ aside{
 #faqnotice{margin-top: 40px;
   background-color: rgb(117, 45, 117);
   color: white;
-  width: 78.5%;
+  width: 75%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #fh{color:white;}

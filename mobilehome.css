@@ -196,8 +196,10 @@ body{
         display: block;
         border: 1px solid transparent;
       }
-      .smallicon{width:8px;
-        height:8px;
-        background-color: white;
-        position: relative;
+      .socialicon{width:10px;
+        height:10px;
+        border-radius: 40%;
+        background-color: rgb(230, 227, 227);
+        left:40%;
+        display: block;
       }

@@ -254,6 +254,7 @@ aside{
     border: 1px solid transparent;
     position: relative;
     display: inline-block;
+    text-align: center;
   }
   #copyright{color:rgb(28, 28, 173);
     background-color: rgb(194, 192, 192);

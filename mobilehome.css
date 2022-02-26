@@ -201,13 +201,11 @@ body{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         position: fixed;
         bottom: 0%;
-        left:20%;
       }
-      .smallicon{width:13px;
-        height:13px;
+      .smallicon{width:8px;
+        height:8px;
         background-color: white;
         position: relative;
-        left:10%;
       }
       .socialicon{width:15px;
         height:15px;

@@ -205,9 +205,11 @@ body{
       .smallicon{width:13px;
         height:13px;
         background-color: white;
+        position: relative;
       }
       .socialicon{width:15px;
         height:15px;
         background-color: rgb(230, 227, 227);
         display:block;
+        position: relative;
       }

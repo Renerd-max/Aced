@@ -164,7 +164,7 @@ body{
     #faqnotice{margin-top: 40px;
       background-color: rgb(117, 45, 117);
       color: white;
-      width: 98%;
+      width: 97%;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     #fh{color:white;}
@@ -201,6 +201,9 @@ body{
       #copyright{color:rgb(28, 28, 173);
         background-color: rgb(194, 192, 192);
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: fixed;
+        bottom: 0%;
+        right: 0%;
       }
       .smallicon{width:14px;
         height:14px;

@@ -1,6 +1,9 @@
 body{
     background-color: rgb(240, 234, 239);
     }
+    header{
+      text-align:center ;
+    }
     
       .topcontent{
         font-size: 10px;
@@ -205,14 +208,17 @@ body{
         border: 1px solid transparent;
         display: inline-block;
         position: relative;
+        text-align: center;
       }
       #copyright{color:rgb(28, 28, 173);
         background-color: rgb(194, 192, 192);
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: none;
       }
       .smallicon{width:14px;
         height:14px;
         background-color: white;
+        display: none;
       }
       .socialicon{width:20px;
         height:20px;

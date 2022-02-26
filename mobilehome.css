@@ -192,8 +192,7 @@ body{
         margin-bottom: 0%;
         margin-left: 0%;
         padding: 40px;
-        text-align: center;
-        display: block;
+        display: inline-block;
         border: 1px solid transparent;
       }
       .socialicon{width:10px;
@@ -210,8 +209,8 @@ body{
         position: fixed;
         bottom: 0%;
       }
-      .smallicon{width:14px;
-        height:14px;
+      .smallicon{width:10px;
+        height:10px;
         background-color: white;
         display: inline;
         bottom: 0%;

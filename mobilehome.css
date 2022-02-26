@@ -202,6 +202,7 @@ body{
         background-color: rgb(230, 227, 227);
         left:50%;
         display: block;
+        position: relative;
       }
       #copyright{color:rgb(28, 28, 173);
         background-color: rgb(194, 192, 192);

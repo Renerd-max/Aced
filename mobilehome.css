@@ -186,12 +186,13 @@ body{
         border: 1px solid transparent;
         margin-top: 40px;
       }
-      .foot{width:100%;
+      footer{width:100%;
         height: auto;
         background-color: rgb(230, 227, 227);
         margin-bottom: 0%;
         margin-left: 0%;
         padding: 40px;
+        position: relative;
         display: inline-block;
         border: 1px solid transparent;
       }

@@ -199,13 +199,15 @@ body{
       #copyright{color:rgb(28, 28, 173);
         background-color: rgb(194, 192, 192);
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        position: inherit;
+        position: fixed;
         bottom: 0%;
+        left:20%;
       }
       .smallicon{width:13px;
         height:13px;
         background-color: white;
         position: relative;
+        left:10%;
       }
       .socialicon{width:15px;
         height:15px;

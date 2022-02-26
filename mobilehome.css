@@ -164,7 +164,7 @@ body{
     #faqnotice{margin-top: 40px;
       background-color: rgb(117, 45, 117);
       color: white;
-      width: 97%;
+      width: 96%;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     #fh{color:white;}
@@ -203,14 +203,13 @@ body{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         position: fixed;
         bottom: 0%;
-        right: 0%;
       }
-      .smallicon{width:14px;
-        height:14px;
+      .smallicon{width:13px;
+        height:13px;
         background-color: white;
       }
-      .socialicon{width:40px;
-        height:40px;
+      .socialicon{width:15px;
+        height:15px;
         background-color: rgb(230, 227, 227);
-        display:inline;
+        display:block;
       }

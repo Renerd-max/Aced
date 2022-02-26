@@ -206,14 +206,12 @@ body{
       #copyright{color:rgb(28, 28, 173);
         background-color: rgb(194, 192, 192);
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        position: relative;
         display: inline;
         bottom: 0%;
       }
       .smallicon{width:14px;
         height:14px;
         background-color: white;
-        position: relative;
         display: inline;
         bottom: 0%;
       }

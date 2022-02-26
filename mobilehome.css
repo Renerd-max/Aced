@@ -195,8 +195,6 @@ body{
         text-align: center;
         display: block;
         border: 1px solid transparent;
-        box-shadow: -5px -5px 8px  #fbfbfc;
-        box-shadow: 5px 5px 8px #faf9fa;
       }
       #copyright{color:rgb(28, 28, 173);
         background-color: rgb(194, 192, 192);

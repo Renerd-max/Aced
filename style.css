@@ -223,7 +223,7 @@ aside{
 #faqnotice{margin-top: 40px;
   background-color: rgb(117, 45, 117);
   color: white;
-  width: 75%;
+  width: 70%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #fh{color:white;}
@@ -245,15 +245,15 @@ aside{
     border: 1px solid transparent;
     margin-top: 50px;
   }
-  .foot{width:100%;
+  footer{width:100%;
     height: auto;
     background-color: rgb(230, 227, 227);
     margin-bottom: 0%;
     margin-left: 0%;
     padding: 50px;;
     border: 1px solid transparent;
-    box-shadow: -5px -5px 8px  #fbfbfc;
-    box-shadow: 5px 5px 8px #faf9fa;
+    position: relative;
+    display: inline-block;
   }
   #copyright{color:rgb(28, 28, 173);
     background-color: rgb(194, 192, 192);

@@ -219,3 +219,10 @@ body{
         border-radius: 40%;
         background-color: rgb(230, 227, 227);
       }
+      a{
+        text-decoration: none;
+      }
+      p{
+        text-align: left;
+        padding: 2%;
+      }

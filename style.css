@@ -272,4 +272,10 @@ aside{
     height:50px;
     background-color: #f8f6fa;
   }
-  
+  a{
+    text-decoration: none;
+  }
+  p{
+    text-align: left;
+    padding:2%;
+  }

@@ -218,3 +218,9 @@ body{
         display: none;
         bottom: 0%;
       }
+      a{
+        text-decoration: none;
+      }
+      p{
+        text-align: left;
+      }

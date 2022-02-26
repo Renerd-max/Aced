@@ -138,6 +138,7 @@ body{
       width:10px;
       background-color: rgb(67, 18, 112);
       position: relative;
+      display: block;
       float: left;
     }
     #c1{

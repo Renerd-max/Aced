@@ -8,7 +8,7 @@ body{
     margin-left: 1%;
   }
   .ttl3{
-    font-size: 20px;
+    font-size: 15px;
   }
   
     .tbt{border: 1px solid transparent;
@@ -373,9 +373,10 @@ body{
       display:inline-flex;
       position: absolute;
       bottom: 1%;
+      margin: 1px;
     }
-    .smallicon{width:14px;
-      height:13px;
+    .smallicon{width:8px;
+      height:8px;
       background-color: white;
     }
     .socialicon{width:20px;

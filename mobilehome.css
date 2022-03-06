@@ -117,6 +117,9 @@ body{
       color: rgb(63, 61, 59);
       text-decoration: none;
     }
+    h2{
+      font-size: 25px;
+    }
     h2:hover{
       color: rgb(155, 124,   170);
       text-decoration: none;

@@ -165,7 +165,7 @@ body{
   
   }
   #decimage{width: 100%;
-    height:300px;
+    height:250px;
     border:1px solid transparent;
     box-shadow: -5px -5px 8px grey;
     box-shadow: 5px 5px 8px grey;
@@ -208,6 +208,7 @@ body{
     vertical-align:middle;
     box-shadow: -5px -5px 8px  #9e89c7;
     box-shadow: 5px 5px 8px  #9e89c7;
+    align-self: center;
   }
   .profilecard:hover{
     margin:25px;
@@ -219,6 +220,7 @@ body{
     vertical-align:middle;
     box-shadow: -5px -5px 8px  #d1cfd4;
     box-shadow: 5px 5px 8px  #d1cfd4;
+    align-self: center;
   }
   .shortunder{
     border-bottom: 3px solid rgb(151, 106, 192);
@@ -270,6 +272,7 @@ body{
       box-shadow: -5px -5px 8px  #9e89c7;
       box-shadow: 5px 5px 8px #9e89c7;
       text-align: left;
+      align-self: center;
   }
   .display:hover{margin: 1px;
     border:1px solid white;
@@ -282,6 +285,7 @@ body{
     box-shadow: -5px -5px 8px  #d1cfd4;
     box-shadow: 5px 5px 8px #d1cfd4;
     text-align: left;
+    align-self: center;
   }
   .smallbox{
     border:1px solid transparent;
@@ -338,7 +342,7 @@ body{
       display: inline-grid;
       padding: 3px;
       height: fit-content;
-      width:60%;
+      width:80%;
     }
     .ldoub{
       position: relative;

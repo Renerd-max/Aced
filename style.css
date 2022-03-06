@@ -123,6 +123,7 @@ section{background-color: white;
   color:rgb(37, 35, 35);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding:5%;
+  flex: 1;
   margin-left: 10%;
   margin-right: 10%;
   margin-bottom: 75px;

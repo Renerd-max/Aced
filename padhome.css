@@ -270,6 +270,7 @@ body{
       box-shadow: -5px -5px 8px  #9e89c7;
       box-shadow: 5px 5px 8px #9e89c7;
       text-align: left;
+      align-self: center;
   }
   .display:hover{margin: 1px;
     border:1px solid white;
@@ -282,6 +283,7 @@ body{
     box-shadow: -5px -5px 8px  #d1cfd4;
     box-shadow: 5px 5px 8px #d1cfd4;
     text-align: left;
+    align-self: center;
   }
   .doubelmnt2> #ch{margin: 2px;
     display: inline-grid;
@@ -366,9 +368,10 @@ body{
       display:inline-flex;
       position: absolute;
       bottom: 1%;
+      margin:1px;
     }
-    .smallicon{width:14px;
-      height:13px;
+    .smallicon{width:8px;
+      height:8px;
       background-color: white;
     }
     .socialicon{width:30px;

@@ -107,6 +107,54 @@ body{
         border-radius: 10px;
         display:inline-flex
       }
+
+      .searchBox{
+        position:relative;
+        transform: translate(-50%, -50%);
+        background: #dfdbdb;
+        height:40px;
+        border-radius: 40px;
+        padding:10px;
+        display: flex;
+        justify-content: space-between;
+      }
+      .searchBox:hover>.searchTxt{
+        width: 240px;
+        padding: 0 6px;
+      }
+      .searchBox:hover>.searchBtn{
+        background: white;
+        color: black;
+      }
+      .searchBtn{
+        color: #eeeeee;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: #2f3640;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition:0.4s;
+        color:white;
+        cursor: pointer;
+        text-decoration: none;
+      } 
+      .searchBtn>i{
+        font-size: 20px;
+      } 
+      .searchtxt{
+        border:none;
+        background: none;
+        outline: none;
+        padding: 0;
+        color: white;
+        font-size: 16px;
+        transition: 0.4s;
+        line-height: 40px;
+        width: 0px;
+        font-weight: bold;
+      }
   
     .link{
       color:black;

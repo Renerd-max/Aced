@@ -68,6 +68,9 @@ body{
     margin-right: 20%;
     border-radius: 5px;
   }
+  .contain{
+    display: none;
+  }
   
   .bt{max-width:auto; height:25px;
     background-color: #9e89c7;

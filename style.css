@@ -68,6 +68,9 @@ background-color: rgb(240, 234, 239);
   border:1px solid transparent;
   border-radius: 10px;
   }
+  .searchBox{
+    display: none;
+  }
  *,
  *::after,
  *::before{

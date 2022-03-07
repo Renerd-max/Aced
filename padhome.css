@@ -79,28 +79,30 @@ body{
   display: none;
 }
 .searchBox{
-  position:relative;
+  position:fixed;
+  top:15%;
+  right:1%;
   background: #dfdbdb;
   height:30px;
-  width: auto;
   border-radius: 40px;
   padding:10px;
   display: flex;
   justify-content: space-between;
 }
 .searchBox:hover>.searchTxt{
+  width: 200px;
   padding: 0 6px;
 }
 .searchBox:hover>.searchBtn{
   background: white;
-  color: black;
+  color: #9e89c7;
 }
 .searchBtn{
   color: #eeeeee;
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #2f3640;
+  background: #9e89c7;
   display: flex;
   justify-content: center;
   align-items: center;

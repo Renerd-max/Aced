@@ -1,2 +1,3 @@
 # Aced
-A Portfolio for Creators
+-A Hub for Creators-
+Showcase-Collaborate-Build, and do much more with Aced.
